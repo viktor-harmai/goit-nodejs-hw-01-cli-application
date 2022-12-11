@@ -9,7 +9,6 @@ program
 
 program.parse();
 const options = program.opts();
-// console.log(options);
 
 const { listContacts, getContactById, addContact, removeContact } = require('./contacts');
 
