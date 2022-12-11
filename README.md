@@ -20,7 +20,7 @@
 
 ![Add new contact](./img/add.PNG)
 
-# Удаляем контакт
+### Удаляем контакт
 
 **`node index.js --action remove --id=3`**
 
